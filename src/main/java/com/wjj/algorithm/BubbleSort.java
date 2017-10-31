@@ -1,8 +1,8 @@
-package com.wjj;
+package com.wjj.algorithm;
 
 /**
  * @author 作者：wangjj
- * @version 创建时间：2017-10-2710:59
+ * @version 创建时间：2017-10-27 10:59
  * @discription 类说明：冒泡排序
  */
 public class BubbleSort {
