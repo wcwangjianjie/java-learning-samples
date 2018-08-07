@@ -1,4 +1,4 @@
-package com.wjj.foundation;
+package com.wjj.base;
 
 import java.math.BigInteger;
 

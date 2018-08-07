@@ -1,4 +1,4 @@
-package com.wjj.foundation;
+package com.wjj.base;
 
 /**
  * @author 作者：wangjj
