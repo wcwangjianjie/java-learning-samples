@@ -8,10 +8,14 @@ package com.wjj.base;
  */
 public class StringTest {
     public static void main(String[] args) {
+        stringRegexTest("20.1");
+        System.out.println("0123456789".substring(5));
         String stringTest = "\uD842\uDFB7";
         System.out.println(stringTest.codePoints());
-        System.out.println("0123456789".substring(5));
-        stringRegexTest("20.1");
+        System.out.println("---------------------------------------");
+        Object object = null;
+        String price = String.valueOf(object);
+        System.out.println("price:" + price);
     }
 
     /**
